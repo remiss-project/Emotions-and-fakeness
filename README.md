@@ -3,7 +3,7 @@
 # Model de probabilitat de faula
 
 ## RFmodel.joblib
-Amb este model es vol obtindre la ***probabilitat*** que un ***tuit polític*** siga una ***notícia falsa*** segons la seua redacció, és a dir, tenint en compte el contingut sintàctica i les emocions contenen.
+Amb este model es vol obtindre la ***probabilitat*** que un ***tuit polític*** siga una ***notícia falsa*** segons la seua redacció, és a dir, tenint en compte el contingut sintàctic i les emocions que contenen.
 
 ## emotions_rf_extraction.py
 ```
