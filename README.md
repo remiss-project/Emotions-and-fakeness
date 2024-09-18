@@ -23,4 +23,4 @@ Exemple d'us, on ***text*** és el nombre de la columna amb els textos a analitz
 python3 emotions_rf_extraction.py -i /home/tweets_eleccions.csv -o /home/tweets_eleccions_rf.csv -rf /home/RFmodel.joblib -c text
 ```
 ## Authors
-- [LAIA-UV](https://github.com/Laia-uv)
+- [LAIA-UV](https://laia.uv.es/)
